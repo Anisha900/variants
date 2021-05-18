@@ -1,1 +1,2 @@
 Almost all seq contain N501Y
+also contains xyz
